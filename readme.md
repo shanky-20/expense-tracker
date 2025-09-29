@@ -17,11 +17,6 @@ A **desktop application** to manage and track distribution expenses for books. B
 
 ---
 
-## Screenshots
-
-*(Add screenshots of the app here)*
-
----
 
 ## Tech Stack
 
@@ -41,3 +36,4 @@ A **desktop application** to manage and track distribution expenses for books. B
 ```bash
 git clone https://github.com/shanky-20/expense-tracker.git
 cd expense-tracker
+
